@@ -1,8 +1,8 @@
-# Contribution [#]: [Issue Title]
+# Contribution 1: Links to totals in overview of failing checks #8764
 
 **Contribution Number:** 1  
 **Student:** Hitanshu Panchal  
-**Issue:** [GitHub issue link]  
+**Issue:** https://github.com/WeblateOrg/weblate/issues/8764  
 **Status:** Phase I In Progress
 
 ---
